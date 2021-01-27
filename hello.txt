@@ -1,2 +1,2 @@
 Printf("Hello world!");
-Hi
+Hi;
